@@ -63,7 +63,7 @@ salt = bytes(["salt_KEY"])
   "Hosts": "YOUR_ENCRYPTED_HOSTS_DATA",
   "Version": "YOUR_VERSION_DATA",
   "Install": "...",
-  "MTX": "...",
+  "MTX": "YOUR_MUTEX_DATA",
   "Anti": "...",
   "Pastebin": "...",
   "BDOS": "...",
